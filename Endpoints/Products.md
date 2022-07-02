@@ -10,7 +10,7 @@
 
 ```
 BODY
-{productIds: "bwv5n56m5bvh"}
+{productIds: "9NNT3KF65XLL"}
 ```
 
 ## Get multiple products
