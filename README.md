@@ -2,4 +2,4 @@
 
 # Get Product Information
 
-* [v8.0/sdk/products](endpoints/Products.md)
+* [v8.0/sdk/products](Endpoints/Products.md)
